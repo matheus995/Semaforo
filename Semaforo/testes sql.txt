@@ -1,0 +1,27 @@
+UPDATE ruas SET p1 = 9;
+UPDATE ruas SET p2 = 4;
+
+UPDATE ruas SET p1 = 4;
+UPDATE ruas SET p2 = 9;
+
+UPDATE ruas SET p1 = 9;
+UPDATE ruas SET p2 = 6;
+
+UPDATE ruas SET p1 = 6;
+UPDATE ruas SET p2 = 9;
+
+UPDATE ruas SET p1 = 11;
+UPDATE ruas SET p2 = 7;
+
+UPDATE ruas SET p1 = 7;
+UPDATE ruas SET p2 = 11;
+
+UPDATE ruas SET p1 = 4;
+UPDATE ruas SET p2 = 2;
+
+UPDATE ruas SET p1 = 15;
+UPDATE ruas SET p2 = 11;
+
+UPDATE ruas SET p1 = 11;
+UPDATE ruas SET p2 = 17;
+
